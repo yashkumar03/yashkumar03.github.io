@@ -4,6 +4,17 @@ body {
 
 }
 
+.container {
+    width: 100%;
+    height: min-content;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+
+
 
 .flex-container {
 	display: flex;
